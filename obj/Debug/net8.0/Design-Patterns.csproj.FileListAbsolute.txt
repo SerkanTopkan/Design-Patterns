@@ -1,0 +1,15 @@
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\bin\Debug\net8.0\Design-Patterns.exe
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\bin\Debug\net8.0\Design-Patterns.deps.json
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\bin\Debug\net8.0\Design-Patterns.runtimeconfig.json
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\bin\Debug\net8.0\Design-Patterns.dll
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\bin\Debug\net8.0\Design-Patterns.pdb
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.AssemblyInfoInputs.cache
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.AssemblyInfo.cs
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.sourcelink.json
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.dll
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\refint\Design-Patterns.dll
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.pdb
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\Design-Patterns.genruntimeconfig.cache
+C:\Users\Serkan\source\repos\Design-Patterns\Design-Patterns\obj\Debug\net8.0\ref\Design-Patterns.dll
