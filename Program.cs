@@ -17,8 +17,8 @@ productOrder.PrintStatus();
 
 ///Builder
 
-IArabaBuilder araba = new ToyotaConcreteBuilder();
-ArabaUret uret = new ArabaUret();
-uret.Uret(araba);
-Console.WriteLine(araba.Araba.ToString());
+IAirplaneBuilder boingBuilder = new BoingConcreteBuilder();
+AirplaneBuild build = new AirplaneBuild();
+build.Build(boingBuilder);
+Console.WriteLine(boingBuilder.Airplane.ToString());
  
