@@ -1,13 +1,4 @@
-﻿/*
-
-Yeni Sipariş
-İşleniyor
-Gönderimde
-Teslim Edildi
-
-*/
-
-///State 
+﻿///State 
 Order productOrder = new Order();
 productOrder.PrintStatus();
 
